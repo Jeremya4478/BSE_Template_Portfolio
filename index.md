@@ -1,5 +1,5 @@
-# Project Name Here
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+# Blue Stamp 206 3 joint robotic arm
+This is my project a robotic arm controlled by 2 joy sticks that allow it to move as it would regularly excpet its controlled using 2 joysticks which is something i am more comfortable with as to oppose a app on a phone, this project was created using parts of the 206 arm and the 226 controller to assemble this project.
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
 ```HTML 
@@ -9,7 +9,7 @@ You should comment out all portions of your portfolio that you have not complete
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| FirstName LastInitialOnly | School Name | Electrical Engineering | Incoming Senior
+| Jeremy.A  | Kipp college prep | Mechanical Engineering | Incoming junior
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
@@ -22,10 +22,10 @@ You should comment out all portions of your portfolio that you have not complete
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+- From my previous mile stone i was able to move the bread board inside of the arm and i was able to fix the issue with all the servos moving so the arm is completely functional
+- The main issue that came up was the wrong project given to me in the start but it gave the birth of the idea to add a controller to my project
+- Servos are digital signals which is in simplest terms all in or all out since its a arduino all out is 0 and all in is 5 and the joysticks use analogs which is everything in betwen for this case 0-5 and the arduino is the translater of the joy sticks movements to angles then to the servos
+- More in depth conversations about the relationship between the joysticks and the board itself so i am able to have a better understanding with technical issues regarding joysticks and in general objects that use the analog function
 
 
 
